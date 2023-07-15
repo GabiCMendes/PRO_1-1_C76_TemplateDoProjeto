@@ -10,7 +10,8 @@ import StartMapScreen from "./screens/StarMap";
 import DailyPicScreen from "./screens/DailyPic";
 import SpaceCraftScreen from "./screens/SpaceCraft";
 
-const Stack = createStackNavigator();
+const Stack = createStackNavigator(); 
+
 
 function App() {
   return (
